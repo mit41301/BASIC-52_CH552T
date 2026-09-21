@@ -1,4 +1,7 @@
 ## CH552T running BASIC-52
+
+<img width="7890" height="4157" alt="CH55xT_Pinout" src="https://github.com/user-attachments/assets/f61984d0-ffee-496f-939e-a922210b8af4" />
+
 ![DIP-40_BASIC-52](https://github.com/user-attachments/assets/9aa69218-ebc1-4344-a1d9-fd681a47d70c)
 
 ## With external USB-TTL CH340E
